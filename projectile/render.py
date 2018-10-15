@@ -15,7 +15,7 @@ def plot(velocity, theta):
     t = np.linspace(0, get_t_max(velocity, theta), 100)
     xy = np.asarray(compute_xy(t, velocity, theta)) / 1000
 
-    fig, ax = plt.subplots(figsize=(12, 9))
+    fig, ax = plt.subplots(figsize=(6, 4))
     ax.set_aspect('equal')
     ax.set_title("v={} m/s, \u03b8={:.1f}\u00b0".format(velocity, theta * 180 / np.pi))
     ax.set_xlabel('x [km]')

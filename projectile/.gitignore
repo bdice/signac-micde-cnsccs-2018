@@ -1,6 +1,7 @@
 signac.rc
 workspace/
 project.py
+dashboard.py
 *.err.*
 *.out.*
 signac_project_document.json
