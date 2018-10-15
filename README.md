@@ -1,7 +1,5 @@
 # signac - MICDE Symposium of the Center for Network and Storage Enabled Collaborative Computational Science 2018
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bdice/signac-micde-cnsccs-2018/master)
-
 ## About
 This repository contains slides and demos for the session ["Reproducible computational workflows with signac"](https://indico.cern.ch/event/692449/contributions/3170022/) held at the [2018 Symposium of the Center for Network and Storage Enabled Collaborative Computational Science](https://indico.cern.ch/event/692449/).
 
