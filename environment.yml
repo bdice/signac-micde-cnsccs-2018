@@ -1,0 +1,15 @@
+name: signac-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - signac
+  - signac-flow
+  - signac-dashboard
+  - ffmpeg
+  - cloudpickle
+  - htop
+  - pandas
+  - tqdm
